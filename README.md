@@ -23,7 +23,7 @@ I build:
 ### 🔁 n8n Automation Portfolio
 Real-world automation workflows built with n8n (lead intake, AI document processing, data enrichment, notifications).
 
-👉 Repo: `n8n-automation-portfolio`
+👉 Repo: [n8n-automation-portfolio](https://github.com/daviimuse/n8n-automation-portfolio)
 
 ### 📅 calendarToKeep
 Sync events from Google Calendar to Google Keep as tasks.
